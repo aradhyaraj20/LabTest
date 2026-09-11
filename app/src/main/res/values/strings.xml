@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CampusNews</string>
+    <string name="welcome_message">Welcome to Campus News Portal - Your Source for Campus Updates!</string>
+    <string name="btn_academic">Academic</string>
+    <string name="btn_events">Events</string>
+    <string name="btn_placements">Placements</string>
+    <string name="read_more">Read More</string>
+    <string name="back">Back</string>
+    <string name="logo_desc">College Logo</string>
+    <string name="news_image_desc">News Update Image</string>
+</resources>

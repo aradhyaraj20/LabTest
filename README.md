@@ -1,6 +1,7 @@
 # CampusNews Android Application
 
-CampusNews is an Android application developed for students to receive important campus updates. It adheres to academic lab exam requirements (**Q2. Campus News**), utilizing standard Android components such as Activities, Fragments, Intents, and Notifications.
+CampusNews is an Android application developed for 
+students to receive important campus updates. It adheres to academic lab exam requirements (**Q2. Campus News**), utilizing standard Android components such as Activities, Fragments, Intents, and Notifications.
 
 ---
 
